@@ -1,2 +1,7 @@
+<div align="center">
+
 # reizsh-apparmor-profiles
-My personal AppArmor profiles for various packages.
+
+**My personal AppArmor profiles.**
+
+</div>
